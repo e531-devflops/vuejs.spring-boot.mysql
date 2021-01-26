@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### OS generated files ###
+.DS_Store
+
+### Application specific ###
+application-dev.properties
